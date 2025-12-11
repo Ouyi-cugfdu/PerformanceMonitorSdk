@@ -1,0 +1,1 @@
+This is a comprehensive Android performance monitoring solution, including an independent SDK module and a functional demo app. The SDK implements smoothness monitoring and ANR monitoring, utilizing the Choreographer and SIGQUIT signal schemes.
